@@ -16,8 +16,7 @@
 title: Mim Territ
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Mads Petersen.</b> I'm a student at Aalborg University, currently studying Interaction Design.
-  This is where i post my projects.
+  Description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "meaningfuldata.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -29,7 +28,7 @@ post_dirs: false
 markdown: kramdown
 sass:
   sass_dir: _sass
-plugins:
+gems:
   - jekyll-feed
 include: ['_pages']
 exclude:
