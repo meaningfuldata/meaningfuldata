@@ -7,13 +7,13 @@ layout: default
       <h2 class="post-title" itemprop="name headline">{{ page.title | escape }}</h2>
     </header>
     <div class="post-meta">
-      {% if page.author %}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Written by {{ page.author }}</span></span>
-      {% endif %}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
       </time>
+      {% if page.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">written by <b>{{ page.author }}</b></span></span>
+      {% endif %}
     </div>
     <div class="tags-container">
       Tags:

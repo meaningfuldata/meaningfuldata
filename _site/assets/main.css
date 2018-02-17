@@ -189,7 +189,7 @@ footer {
   text-align: center;
   flex: left; }
   .post-meta time {
-    margin-left: 15px; }
+    margin-right: 20px; }
 
 .post-content {
   max-width: 600px;

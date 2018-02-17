@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-17T19:13:50+01:00</updated><id>http://localhost:4000//</id><title type="html">Mim Territ</title><subtitle>Mads Petersen.&lt;/b&gt; I'm a student at Aalborg University, currently studying Interaction Design. This is where i post my projects.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-17T20:06:23+01:00</updated><id>http://localhost:4000//</id><title type="html">Mim Territ</title><subtitle>Description.
 </subtitle><entry><title type="html">Meeting with Montem</title><link href="http://localhost:4000/blog/dag_2/" rel="alternate" type="text/html" title="Meeting with Montem" /><published>2018-02-17T04:59:52+01:00</published><updated>2018-02-17T04:59:52+01:00</updated><id>http://localhost:4000/blog/dag_2</id><content type="html" xml:base="http://localhost:4000/blog/dag_2/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/health_city.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.&lt;/p&gt;
+
+&lt;p&gt;Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;
+
+&lt;p&gt;Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+
+&lt;h1 id=&quot;dolorem&quot;&gt;Dolorem&lt;/h1&gt;
+&lt;h2 id=&quot;dolorem-1&quot;&gt;Dolorem&lt;/h2&gt;
+&lt;h3 id=&quot;dolorem-2&quot;&gt;Dolorem&lt;/h3&gt;
 
 &lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.&lt;/p&gt;
