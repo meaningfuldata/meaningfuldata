@@ -14,4 +14,4 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ![Emissions]({{ "/assets/img/emissions-2.png" }})
-![Emissions]({{ base.url }}/assets/img/emissions-3.png" }})
+![Emissions]({{ "/assets/img/emissions-3.png" }})
