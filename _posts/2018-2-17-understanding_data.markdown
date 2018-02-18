@@ -15,5 +15,5 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 
 Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-![Emissions]({{ "/assets/img/emissions-1.png" }})
-![Emissions]({{ "/assets/img/emissions-3.png" }})
+![Emissions]({{ "/assets/img/emissions_1.png" }})
+![Emissions]({{ "/assets/img/emissions_2.png" }})
