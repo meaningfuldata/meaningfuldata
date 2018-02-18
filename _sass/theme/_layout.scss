@@ -186,11 +186,12 @@ footer {
 		list-style: none;
 		flex: left;
 		position: relative;
-		margin-bottom: 40px;
-		text-align: center;
+		margin-bottom: 60px;
 
 		h3 {
 			font-size: 2em;
+			margin: 6px 0 24px;
+			line-height: 1.1;
 		}
 
 		a {
@@ -198,17 +199,39 @@ footer {
 			position: relative;
 
 			&:hover {
-				text-decoration: underline;
+
+				#title-border {
+					width: 100%;
+					transition: 0.3s;
+				}
 			}
 		}
 	}
+}
+
+#title-border {
+	border-bottom: 3px solid $link-color;
+	padding-top: 2px; 
+	position: absolute;
+	width: 140px;
+	left: 0;
+	transition: 0.3s;
 }
 
 .post-link {
 	position: relative;
 	display: inline-block;
 	margin-bottom: 4px;
-	color: $font-color
+	color: $font-color;
+}
+
+.post-excerpt {
+	text-align: left;
+	margin-top: 6px;
+	line-height: 1.4em;
+	font-size: 1.1em;
+	color: #494949;
+
 }
 
 .post-link-meta {
@@ -240,7 +263,7 @@ footer {
 
 .post-meta {
 	width: 100%;
-	font-size: 1em;
+	font-size: 1.1em;
 	color: #898989;
 	font-family: $heading-font;
 	text-align: center;
@@ -253,11 +276,10 @@ footer {
 
 
 .post-content {
-	max-width: 600px;
+	max-width: 740px;
 	height: auto;
 	position: relative;
 	margin: 0 auto 10px;
-	line-height: 1.6em;
 
 	img {
 		width: 100%;
@@ -267,6 +289,11 @@ footer {
 		display: block;
 		float: right;
 	}
+
+	p {
+		font-size: 1.2em;
+		line-height: 1.6em;
+	}
 }
 
 .tags-container {
@@ -274,6 +301,7 @@ footer {
 	height: 100%;
 	margin: 20px 0;
 	padding-bottom: 20px;
+	font-size: 1.1em;
 	font-family: $heading-font;
 	text-align: center;
 	color: #898989;
@@ -282,6 +310,7 @@ footer {
 		display: inline-block;
 		padding: 0 6px;
 		margin-bottom: 10px;
+		font-weight: 600;
 
 		&:first-child {
 			padding: 0 0 0 10px;

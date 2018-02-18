@@ -11,11 +11,10 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
+            <div id="title-border"></div>
           </a>
         </h3>
-        {% if site.show_excerpts %}
-          {{ post.excerpt }}
-        {% endif %}
+        <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords:30 }}</p>
       </li>
       {% endfor %}
     </ul>
