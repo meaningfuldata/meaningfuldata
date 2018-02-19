@@ -9,7 +9,7 @@ tags:
 ---
 # WUHU
 
-Monten er sej
+Montem er sej
 
 ![Wuhu]({{ "/assets/img/test.png" }})
 
